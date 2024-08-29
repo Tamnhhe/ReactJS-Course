@@ -1001,7 +1001,7 @@ find-up@^5.0.0:
     locate-path "^6.0.0"
     path-exists "^4.0.0"
 
-"first-application@file:E:\\Github\\ReactJS-Course\\packages\\first-application":
+"first-application@file:D:\\Github\\ReactJS-Course\\packages\\first-application":
   version "0.0.0"
   resolved "file:packages/first-application"
   dependencies:
